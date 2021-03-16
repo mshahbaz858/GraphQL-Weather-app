@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GraphQL-Weather-app/static/css/main.dd3e7446.chunk.css",
+    "main.js": "/GraphQL-Weather-app/static/js/main.439fff3b.chunk.js",
+    "main.js.map": "/GraphQL-Weather-app/static/js/main.439fff3b.chunk.js.map",
+    "runtime-main.js": "/GraphQL-Weather-app/static/js/runtime-main.0298aa80.js",
+    "runtime-main.js.map": "/GraphQL-Weather-app/static/js/runtime-main.0298aa80.js.map",
+    "static/js/2.19d2c8dd.chunk.js": "/GraphQL-Weather-app/static/js/2.19d2c8dd.chunk.js",
+    "static/js/2.19d2c8dd.chunk.js.map": "/GraphQL-Weather-app/static/js/2.19d2c8dd.chunk.js.map",
+    "static/js/3.4fa2ef33.chunk.js": "/GraphQL-Weather-app/static/js/3.4fa2ef33.chunk.js",
+    "static/js/3.4fa2ef33.chunk.js.map": "/GraphQL-Weather-app/static/js/3.4fa2ef33.chunk.js.map",
+    "index.html": "/GraphQL-Weather-app/index.html",
+    "static/css/main.dd3e7446.chunk.css.map": "/GraphQL-Weather-app/static/css/main.dd3e7446.chunk.css.map",
+    "static/js/2.19d2c8dd.chunk.js.LICENSE.txt": "/GraphQL-Weather-app/static/js/2.19d2c8dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0298aa80.js",
+    "static/js/2.19d2c8dd.chunk.js",
+    "static/css/main.dd3e7446.chunk.css",
+    "static/js/main.439fff3b.chunk.js"
+  ]
+}
